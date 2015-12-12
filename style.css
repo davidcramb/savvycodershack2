@@ -1,0 +1,22 @@
+#store {
+        font-family: 'Copperplate';
+        text-align: center
+}
+.title{
+        font-family: 'Baskerville';
+        font-weight: 'bold';
+}
+.category{
+        font-family: 'Lucida Grande';
+        font-size: 55%
+}
+.price{
+        font-famly: 'Lucida Grande';
+        font-style: 'italic';
+
+}
+.selling_points{
+        font-family: 'Lucida Grande';
+        font-size: '90%';
+
+}
