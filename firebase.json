@@ -1,0 +1,9 @@
+{
+  "firebase": "dccbookstore",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
