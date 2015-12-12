@@ -1,10 +1,20 @@
 #store {
         font-family: 'Copperplate';
-        text-align: center
+        text-align: center;
+        background-color: #756A11;
 }
 .title{
         font-family: 'Baskerville';
         font-weight: 'bold';
+}
+.navlinks{
+        font-family: 'arial';
+        text-align: center;
+        font-weight: 'bold';
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 5px;
+}
 }
 .category{
         font-family: 'Lucida Grande';
@@ -12,11 +22,12 @@
 }
 .price{
         font-famly: 'Lucida Grande';
+        text-size: 75%;
         font-style: 'italic';
 
 }
 .selling_points{
         font-family: 'Lucida Grande';
-        font-size: '90%';
+        font-size: 90%;
 
 }
