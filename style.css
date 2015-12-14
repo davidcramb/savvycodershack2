@@ -3,10 +3,19 @@
         text-align: center;
         background-color: #756A11;
 }
+#container {
+  width:960px;
+  margin: 0 auto;
+  }
 .title{
         font-family: 'Baskerville';
         font-weight: 'bold';
 }
+#nav{
+        text-align: center;
+
+}
+
 .navlinks{
         font-family: 'arial';
         text-align: center;
@@ -15,6 +24,8 @@
         margin-right: 10px;
         margin-bottom: 5px;
 }
+#content{
+        text-align: center;
 }
 .category{
         font-family: 'Lucida Grande';
@@ -24,10 +35,26 @@
         font-famly: 'Lucida Grande';
         text-size: 75%;
         font-style: 'italic';
-
 }
+
+img{
+        max-height: 15%;
+        max-width: 13%;
+}
+
 .selling_points{
         font-family: 'Lucida Grande';
         font-size: 90%;
 
+}
+#footer{
+      text-align: center;
+      width: 100%;
+      overflow: auto
+}
+.footclan{
+      border: 1px;
+      width: 200px;
+      height: 20px;
+      float: left;
 }
